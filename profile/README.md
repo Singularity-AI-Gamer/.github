@@ -23,7 +23,7 @@
 | [agent-skills](https://github.com/Singularity-AI-Gamer/agent-skills) | 面向 Codex、Claude Code 等 Agent 工具的中文技能库：可查找、可复用、可维护。 |
 | [ai-agent-book](https://github.com/Singularity-AI-Gamer/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》开源书：全书正文、编译版 PDF 与按章配套代码。 |
 | [dive-into-llms](https://github.com/Singularity-AI-Gamer/dive-into-llms) | 《动手学大模型》系列编程实践教程：通过代码深入理解大模型。 |
-| [skills](https://github.com/Singularity-AI-Gamer/skills) | 来自真实工程实践的 Skills，收录可直接用于开发与协作的工作流。 |
+| [skills](https://github.com/Singularity-AI-Gamer/skills) | MATT开发流程 Skills，收录可直接用于开发与协作的工作流。 |
 
 ## 我们在共建什么
 
